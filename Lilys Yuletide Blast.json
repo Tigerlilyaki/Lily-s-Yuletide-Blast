@@ -1,6 +1,6 @@
 {
 	"Name": "Lily's Yuletide Blast",
-	"Version": 1729746000,
+	"Version": 1729750511,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -40,12 +40,16 @@
 				"79",
 				"80",
 				"81",
+				"82",
+				"84",
+				"86",
 				"88",
 				"90",
 				"98",
 				"99",
 				"105",
 				"263",
+				"253",
 				"254",
 				"130"
 			],
@@ -104,6 +108,18 @@
 				[
 					"58",
 					"67"
+				],
+				[
+					"21",
+					"44"
+				],
+				[
+					"44",
+					"128"
+				],
+				[
+					"67",
+					"68"
 				]
 			],
 			"KillerComboPerkBans": [
@@ -199,6 +215,7 @@
 				"109",
 				"110",
 				"121",
+				"126",
 				"127",
 				"128"
 			],
@@ -213,6 +230,7 @@
 				"3",
 				"8",
 				"21",
+				"24",
 				"246",
 				"27",
 				"34",
@@ -220,7 +238,6 @@
 				"38",
 				"39",
 				"44",
-				"101",
 				"54",
 				"57",
 				"61",
@@ -242,7 +259,12 @@
 				"128"
 			],
 			"KillerIndvPerkBans": [],
-			"SurvivorComboPerkBans": [],
+			"SurvivorComboPerkBans": [
+				[
+					"101",
+					"112"
+				]
+			],
 			"KillerComboPerkBans": []
 		}
 	],
@@ -459,7 +481,9 @@
 				1
 			],
 			"AntiFacecampPermitted": false,
-			"KillerIndvPerkBans": [],
+			"KillerIndvPerkBans": [
+				"211"
+			],
 			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [],
 			"SurvivorComboPerkBans": [],
@@ -1043,7 +1067,12 @@
 				"220"
 			],
 			"KillerComboPerkBans": [],
-			"SurvivorIndvPerkBans": [],
+			"SurvivorIndvPerkBans": [
+				"58",
+				"64",
+				"67",
+				"68"
+			],
 			"SurvivorComboPerkBans": [],
 			"SurvivorWhitelistedPerks": [],
 			"SurvivorWhitelistedComboPerks": [],
@@ -1491,7 +1520,9 @@
 				2
 			],
 			"AntiFacecampPermitted": false,
-			"KillerIndvPerkBans": [],
+			"KillerIndvPerkBans": [
+				"211"
+			],
 			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [],
 			"SurvivorComboPerkBans": [],
@@ -1866,7 +1897,9 @@
 				2
 			],
 			"AntiFacecampPermitted": false,
-			"KillerIndvPerkBans": [],
+			"KillerIndvPerkBans": [
+				"211"
+			],
 			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [],
 			"SurvivorComboPerkBans": [],
@@ -2379,7 +2412,9 @@
 				2
 			],
 			"AntiFacecampPermitted": false,
-			"KillerIndvPerkBans": [],
+			"KillerIndvPerkBans": [
+				"211"
+			],
 			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [],
 			"SurvivorComboPerkBans": [],
@@ -2522,7 +2557,9 @@
 				2
 			],
 			"AntiFacecampPermitted": false,
-			"KillerIndvPerkBans": [],
+			"KillerIndvPerkBans": [
+				"211"
+			],
 			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [],
 			"SurvivorComboPerkBans": [],
