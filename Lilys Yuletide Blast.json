@@ -1,6 +1,6 @@
 {
 	"Name": "Lily's Yuletide Blast",
-	"Version": 1731897364,
+	"Version": 1732154005,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -47,6 +47,7 @@
 				"90",
 				"98",
 				"99",
+				"275",
 				"105",
 				"263",
 				"253",
@@ -121,7 +122,11 @@
 					"67",
 					"68"
 				],
-				[]
+				[],
+				[
+					"21",
+					"128"
+				]
 			],
 			"KillerComboPerkBans": [
 				[
@@ -298,13 +303,20 @@
 			"KillerWhitelistedComboPerks": [],
 			"AddonTiersBanned": [],
 			"IndividualAddonBans": [],
-			"ItemWhitelist": [],
+			"ItemWhitelist": [
+				5
+			],
 			"AddonWhitelist": {
 				"Firecracker": {
 					"Addons": []
 				},
 				"Flashlight": {
-					"Addons": []
+					"Addons": [
+						1,
+						2,
+						3,
+						4
+					]
 				},
 				"Med-Kit": {
 					"Addons": []
@@ -382,8 +394,8 @@
 			"SurvivorOfferings": [
 				0,
 				2,
-				4,
-				5
+				5,
+				6
 			],
 			"KillerOfferings": [
 				5
@@ -2621,7 +2633,7 @@
 		{
 			"Name": "The Houndmaster",
 			"KillerNotes": "",
-			"IsDisabled": false,
+			"IsDisabled": true,
 			"Map": [
 				0
 			],
