@@ -1,6 +1,6 @@
 {
 	"Name": "Lily's Yuletide Blast",
-	"Version": 1732164511,
+	"Version": 1732647171,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -30,6 +30,7 @@
 				"267",
 				"46",
 				"261",
+				"47",
 				"49",
 				"262",
 				"55",
@@ -355,8 +356,7 @@
 			"AddonTiersBanned": [],
 			"IndividualAddonBans": [],
 			"ItemWhitelist": [
-				5,
-				0
+				5
 			],
 			"AddonWhitelist": {
 				"Firecracker": {
@@ -511,7 +511,6 @@
 			"ItemWhitelist": [
 				15,
 				5,
-				0,
 				9
 			],
 			"AddonWhitelist": {
@@ -685,8 +684,7 @@
 			"AddonTiersBanned": [],
 			"IndividualAddonBans": [],
 			"ItemWhitelist": [
-				5,
-				0
+				5
 			],
 			"AddonWhitelist": {
 				"Firecracker": {
@@ -767,8 +765,7 @@
 				157
 			],
 			"ItemWhitelist": [
-				5,
-				0
+				5
 			],
 			"AddonWhitelist": {
 				"Firecracker": {
@@ -832,7 +829,6 @@
 			"AddonTiersBanned": [],
 			"IndividualAddonBans": [],
 			"ItemWhitelist": [
-				0,
 				5
 			],
 			"AddonWhitelist": {
@@ -953,7 +949,6 @@
 				218
 			],
 			"ItemWhitelist": [
-				0,
 				5
 			],
 			"AddonWhitelist": {
@@ -1020,8 +1015,7 @@
 				238
 			],
 			"ItemWhitelist": [
-				5,
-				0
+				5
 			],
 			"AddonWhitelist": {
 				"Firecracker": {
@@ -1103,7 +1097,6 @@
 			],
 			"ItemWhitelist": [
 				5,
-				0,
 				9
 			],
 			"AddonWhitelist": {
@@ -1229,8 +1222,7 @@
 				298
 			],
 			"ItemWhitelist": [
-				5,
-				0
+				5
 			],
 			"AddonWhitelist": {
 				"Firecracker": {
@@ -1294,8 +1286,7 @@
 			"AddonTiersBanned": [],
 			"IndividualAddonBans": [],
 			"ItemWhitelist": [
-				5,
-				0
+				5
 			],
 			"AddonWhitelist": {
 				"Firecracker": {
@@ -1359,8 +1350,7 @@
 				337
 			],
 			"ItemWhitelist": [
-				5,
-				0
+				5
 			],
 			"AddonWhitelist": {
 				"Firecracker": {
@@ -1426,8 +1416,7 @@
 			"AddonTiersBanned": [],
 			"IndividualAddonBans": [],
 			"ItemWhitelist": [
-				5,
-				0
+				5
 			],
 			"AddonWhitelist": {
 				"Firecracker": {
@@ -1563,8 +1552,7 @@
 			"AddonTiersBanned": [],
 			"IndividualAddonBans": [],
 			"ItemWhitelist": [
-				5,
-				0
+				5
 			],
 			"AddonWhitelist": {
 				"Firecracker": {
@@ -1639,7 +1627,6 @@
 				418
 			],
 			"ItemWhitelist": [
-				0,
 				5,
 				9,
 				14
@@ -1873,7 +1860,6 @@
 				498
 			],
 			"ItemWhitelist": [
-				0,
 				5
 			],
 			"AddonWhitelist": {
@@ -1943,7 +1929,6 @@
 				515
 			],
 			"ItemWhitelist": [
-				0,
 				5
 			],
 			"AddonWhitelist": {
@@ -2065,8 +2050,7 @@
 				558
 			],
 			"ItemWhitelist": [
-				5,
-				0
+				5
 			],
 			"AddonWhitelist": {
 				"Firecracker": {
@@ -2131,7 +2115,6 @@
 				578
 			],
 			"ItemWhitelist": [
-				0,
 				5
 			],
 			"AddonWhitelist": {
@@ -2298,8 +2281,7 @@
 				637
 			],
 			"ItemWhitelist": [
-				5,
-				0
+				5
 			],
 			"AddonWhitelist": {
 				"Firecracker": {
@@ -2466,7 +2448,6 @@
 				693
 			],
 			"ItemWhitelist": [
-				0,
 				5
 			],
 			"AddonWhitelist": {
@@ -2539,7 +2520,6 @@
 				718
 			],
 			"ItemWhitelist": [
-				0,
 				5
 			],
 			"AddonWhitelist": {
@@ -2611,8 +2591,7 @@
 				738
 			],
 			"ItemWhitelist": [
-				5,
-				0
+				5
 			],
 			"AddonWhitelist": {
 				"Firecracker": {
