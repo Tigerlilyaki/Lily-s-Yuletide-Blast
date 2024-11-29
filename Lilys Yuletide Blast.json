@@ -1,6 +1,6 @@
 {
 	"Name": "Lily's Yuletide Blast",
-	"Version": 1732647171,
+	"Version": 1732907330,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -1077,6 +1077,7 @@
 			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [
 				"58",
+				"63",
 				"64",
 				"67",
 				"68"
