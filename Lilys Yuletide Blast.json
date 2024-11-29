@@ -1,6 +1,6 @@
 {
 	"Name": "Lily's Yuletide Blast",
-	"Version": 1732907330,
+	"Version": 1732912023,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -68,6 +68,7 @@
 				"172",
 				"175",
 				"178",
+				"183",
 				"185",
 				"265",
 				"256",
@@ -104,42 +105,17 @@
 				],
 				[
 					"67",
-					"83"
-				],
-				[
-					"58",
-					"67"
-				],
-				[
-					"21",
-					"44"
+					"58"
 				],
 				[
 					"44",
-					"128"
-				],
-				[
-					"67",
-					"68"
-				],
-				[],
-				[
-					"21",
 					"128"
 				]
 			],
 			"KillerComboPerkBans": [
 				[
-					"138",
-					"212"
-				],
-				[
 					"177",
 					"204"
-				],
-				[
-					"174",
-					"183"
 				],
 				[
 					"159",
@@ -148,10 +124,6 @@
 				[
 					"167",
 					"212"
-				],
-				[
-					"183",
-					"184"
 				]
 			]
 		},
@@ -173,6 +145,10 @@
 				[
 					"67",
 					"76"
+				],
+				[
+					"21",
+					"128"
 				]
 			],
 			"KillerComboPerkBans": [
@@ -1849,7 +1825,9 @@
 				"186"
 			],
 			"KillerComboPerkBans": [],
-			"SurvivorIndvPerkBans": [],
+			"SurvivorIndvPerkBans": [
+				"101"
+			],
 			"SurvivorComboPerkBans": [],
 			"SurvivorWhitelistedPerks": [],
 			"SurvivorWhitelistedComboPerks": [],
